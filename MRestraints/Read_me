@@ -8,10 +8,12 @@ Install:
   1. Move the MRestraints folder to any local location with read/write access.
   2. Open MERCURY, and go into the python API drop down menu>Options and use "Add Location" to add the MRestraints folder address.
   3. Save changes, restart MECURY.
-  4. The scripts should now be visable under the Python API drop down menu, and can be run by selecting them while any structure is open      in MERCURY.
+  4. The scripts should now be visable under the Python API drop down menu, and can be run by selecting them while any structure is open in MERCURY.
   
 NOTES:
 - Output text files are found in the subfolder "Output Folder".
 - Example output from CSD entries are included within this folder.
+- Structure is read as it is initially loaded into MERCURY. Any changes made while within MERCURY will need saving and reloading for updated values.
+
 
 Matt G Reeves - University of Edinburgh
